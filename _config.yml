@@ -10,7 +10,7 @@ name: Summer Serre Lab 2016
 description: Summer 2016 at the Serre Lab.
 author: Lindy Le
 author_email: lindy_le@brown.edu
-baseurl: /serre-lab/ # the subpath of your site, e.g. /blog
+baseurl: /serre-lab # the subpath of your site, e.g. /blog
 url: http://lindyle.github.io/ # the base hostname & protocol for your site
 github_username: lindyle
 
