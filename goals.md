@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Goals for the Summer
-permalink: /goals/
+permalink: goals/
 ---
 
 Hi guys! Here are my goals for the summer:
